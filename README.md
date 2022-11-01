@@ -1,2 +1,2 @@
 # WEB-SCRAPING
-In this project I'll se how to use beautiful soup librearie fro web scraping
+In this project I'll show you how to use beautiful-soup librearie for multiple page web scraping
